@@ -1,0 +1,18 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxa2d6c4466087457c",
+# 公众号appSecret
+"app_secret": "bb4cd6121ddabf2f37fe6959b2408ac2",
+# 模板消息id
+"template_id": "xJpRwm3GIR5ZEVrd9ni_NkpVCkM4EeJXZgGuU44mf4U",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1", "weixin2"]
+"user": ["oJ0vt6QHU4vODmFDO3DG_sbVrPws"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "f1ee58a550884f24828f63fe6a530191",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "安康"
+
+}
